@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"@radix-ui/react-alert-dialog": "^1.1.14",
+		"@radix-ui/react-select": "^2.2.5",
+		"@radix-ui/react-toast": "^1.2.14",
+		"@tanstack/react-table": "^8.21.3",
+		"date-fns-tz": "^3.2.0",
+		"react-day-picker": "^9.8.0"
+	}
+}
